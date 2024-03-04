@@ -2,6 +2,6 @@
 looking for buzzwords in job postings
 find jobs per buzzwords on https://www.service.bund.de/
 
-'''
+'''bash
 bash e2.sh
 '''
